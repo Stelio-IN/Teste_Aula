@@ -2,19 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package teste_git;
+package abinerficha01;
 
 /**
  *
  * @author steli
  */
-public class Teste_Git {
+public class AbinerFicha01 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic herez
+        // TODO code application logic here
     }
     
 }
